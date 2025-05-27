@@ -1,2 +1,4 @@
-# 2-sprint-mission
-2기 스프린트 미션 제출 리포지토리입니다.
+# 0-spring-mission
+
+[![codecov](https://codecov.io/gh/Leekb0804/2-sprint-mission/branch/main/graph/badge.svg)](https://codecov.io/gh/Leekb0804/2-sprint-mission)
+
